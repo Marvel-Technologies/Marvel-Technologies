@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Fitzgerald E. Bowier.
-- 💻 I'm a Flutter, Python and OOP Developer
+- 💻 I'm a Flutter, Python and OOP Developer.
 - 👀 I’m interested in Information Systems Engineering(Ethical Hacking).
 - 🌱 I’m currently learning PHP and .Net(C#, C++, VB, ASP, Angular).
 - 💞️ I’m looking to collaborate on Web and Desktop Applications.
-- 📫 How to reach me Follow me on Instagram @krypto.baby
+- 📫 How to reach me Follow me on Instagram @krypto.baby.
 
 <!---
 Marvel-Technologies/Marvel-Technologies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
