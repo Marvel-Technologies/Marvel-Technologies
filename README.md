@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fitzgerald E. Bowier.
-- I'm a Flutter Developer
-- 👀 I’m interested in Information Systems Engineering.
-- 🌱 I’m currently learning PHP and .Net(C#, VB, ASP, Angular).
+- 💻 I'm a Flutter, Python and OOP Developer
+- 👀 I’m interested in Information Systems Engineering(Ethical Hacking).
+- 🌱 I’m currently learning PHP and .Net(C#, C++, VB, ASP, Angular).
 - 💞️ I’m looking to collaborate on Web and Desktop Applications.
 - 📫 How to reach me Follow me on Instagram @krypto.baby
 
